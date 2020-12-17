@@ -1,4 +1,4 @@
-# nuxt-starter
+# Project-Studio
 
 ## Build Setup
 
@@ -21,6 +21,4 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 MacPro Github Test
 
-# Project-Studio
-
-커밋 어렵당
+20/12/17 커밋 어렵당
