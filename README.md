@@ -21,9 +21,6 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 MacPro Github Test
 
-# NuxtBuetyTF
-
-디자인 수정 해야함
-# NuxtBuetyTF
-# NuxtBuetyTF
 # Project-Studio
+
+커밋 어렵당
