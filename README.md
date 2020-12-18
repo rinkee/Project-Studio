@@ -22,3 +22,5 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 MacPro Github Test
 
 20/12/17 커밋 어렵당
+
+20/12/28 맥 프로로 clone 및 upload 테스트
